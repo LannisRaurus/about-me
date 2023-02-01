@@ -4,6 +4,8 @@ I am `João Camacho`, currently studying [Engineering Physics](https://tecnico.u
 
 ![Me hehe](me.png)
 
+# Academic journey and interests
+
 So far this is my academic progress:
 - [X] Frist year student
 - [ ] Second year student
@@ -11,4 +13,9 @@ So far this is my academic progress:
 - [ ] Fourth year student
 - [ ] Fifth year student
 
-My interests include `physics`, `mathematics` and `programming`.
+My interests include `physics`, `mathematics` and `programming`. A mix of the three is ideal for me!
+
+# Other interests
+
+I am comfortable with coding `python` and `C++`, and always willing to learn!
+Guitar player, boy-scout and artist in my free time.
