@@ -4,7 +4,7 @@ I am `João Camacho`, currently studying [Engineering Physics](https://tecnico.u
 
 So far this is my academic progress:
 - [X] Frist year student
-- [] Second year student
-- [] Third year student
-- [] Fourth year student
-- [] Fifth year student
+- [ ] Second year student
+- [ ] Third year student
+- [ ] Fourth year student
+- [ ] Fifth year student
