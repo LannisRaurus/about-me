@@ -17,5 +17,5 @@ My interests include `physics`, `mathematics` and `programming`. A mix of the th
 
 # Other interests
 
-I am comfortable with coding `python` and `C++`, and always willing to learn!
+I am comfortable with coding `python` and `C++`, and always willing to learn!<br>
 Guitar player, boy-scout and artist in my free time.
