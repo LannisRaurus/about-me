@@ -7,11 +7,11 @@ I am `João Camacho`, currently studying [Engineering Physics](https://tecnico.u
 # Academic journey and interests
 
 So far this is my academic progress:
-- [X] Frist year student
-- [ ] Second year student
-- [ ] Third year student
-- [ ] Fourth year student
-- [ ] Fifth year student
+- [X] Frist year student (Physics)
+- [ ] Second year student (Physics)
+- [ ] Third year student (Physics)
+- [ ] Fourth year student (?)
+- [ ] Fifth year student (?)
 
 My interests include `physics`, `mathematics` and `programming`. A mix of the three is ideal for me!
 
