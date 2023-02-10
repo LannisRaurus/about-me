@@ -2,8 +2,6 @@
 
 I am `João Camacho`, a portuguese student currently taking up a degree in [Engineering Physics](https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/engineering-physics/) at `Instituto Superior Técnico de Lisboa` ([IST](https://tecnico.ulisboa.pt/en/)). <br>
 
-![Me hehe](me.png)
-
 # Academic journey and interests
 
 So far this is my academic progress:
